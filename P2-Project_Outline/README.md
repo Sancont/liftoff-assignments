@@ -20,6 +20,7 @@ IntelliJ IDEA
 MAMP
 SQL
 Spring Boot
+Thymeleaf
 
 ### What I'll Have to Learn
 I will need to learn:
