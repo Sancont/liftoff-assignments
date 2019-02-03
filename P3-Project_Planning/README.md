@@ -16,7 +16,9 @@ https://docs.google.com/drawings/d/1h2sek2h5hrXep464Riga4GAmC8eseRVyt_AXkTSvtCk/
 ### Project Tracker
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://airtable.com/invite/l?inviteId=invCXJMuqUj235zER&inviteToken=cca888d17a0bdb6f9f2576a4c3c644969b6e54285802242728ded157ebb3783d
 
 ### Project Repo Link
 
 (Include a link to your project on GitHub)
+
