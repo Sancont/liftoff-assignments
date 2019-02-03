@@ -8,7 +8,7 @@ For this assignment you will need to upload your resume, and provide links to yo
  
 ### GitHub
 Provide a link to your GitHub account here.
-github.com/Sancont
+www.github.com/Sancont
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
